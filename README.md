@@ -11,9 +11,9 @@ For deployment need compile the code to the pic of the arduino test card.
 
 ### Pre-requisitos 📋
 
-_Open VS Code and press F1 or Ctrl + Shift + P or Cmd + Shift + P to open command palette, select Install Extension and type vscode-arduino.
+_Open VS Code and press F1 or Ctrl + Shift + P or Cmd + Shift + P to open command palette, select Install Extension and type vscode-arduino._
 
-Or launch VS Code Quick Open (Ctrl + P or Cmd + P ), paste the following command, and press enter._
+_Or launch VS Code Quick Open (Ctrl + P or Cmd + P ), paste the following command, and press enter._
 
 ```
     ext install vscode-arduino
